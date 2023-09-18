@@ -1,0 +1,1 @@
+﻿Set-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" -Name "TeamsMachineInstaller" -Value "C:\Program Files (x86)\Teams Installer\Teams.exe --processStart 'Teams.exe' --process-start-args '--minimized'"
